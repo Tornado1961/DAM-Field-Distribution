@@ -1,14 +1,14 @@
 {
   "applicationName": "DAM Field",
-  "version": "1.01.057",
-  "versionCode": 101057,
+  "version": "1.01.059",
+  "versionCode": 101059,
   "status": "current",
-  "publishedDate": "2026-08-11",
+  "publishedDate": "2026-10-04",
   "apk": {
-    "fileName": "DAM_Field_Ver_1.01.057-release.apk",
-    "path": "downloads/DAM_Field_Ver_1.01.057-release.apk",
-    "sha256": "C0676B25403BC54C24922E47E4FEF5B18C0A4FEAB60F1683E323DFDB4405E278",
-    "sizeBytes": 3479704
+    "fileName": "DAM_Field_Ver_1.01.059-release.apk",
+    "path": "downloads/DAM_Field_Ver_1.01.059-release.apk",
+    "sha256": "6A862D9CC1491DB4456D0BFBD496655E7ED6B6BB50160088746F53C4CD583C48",
+    "sizeBytes": 3486040
   },
   "android": {
     "minSdk": 24,
